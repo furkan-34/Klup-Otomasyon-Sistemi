@@ -1,0 +1,22 @@
+Merhaba,
+
+Bu proje kurucularýndan olduðum Karabük Üniversitesi Savunma Teknolojileri Kulübü'nde
+kullanýlmasý için yazdýðým ilk büyük ölçekli projedir. Projenin güncelleme süreci ortalama 1 yýlý bulup
+sonunda bu hali almýþtýr. Projenin yeni back-end ve front-end revizyonlu projesi üzerinde çalýþmaktayým.
+Bitirdiðimde hesabýmdan paylaþacaðým.
+
+Database klasöründe bulunan veritabaný dosyasýna göre sistem dizayn edilmiþ olup,
+tüm veri yapýlarý ve tablo ismi, kolon isimleri vb. buna göre ayarlanmýþtýr.
+
+Görevli tablosundaki kayýtlara göre programa giriþ çýkýp yapýlabilir, eklenen üyelikler
+yetkilendirilebilir, maliye kayýt sistemi ile maliye giriþi çýkýþý, proje vb. bir çok etkinlik
+takip edilebilir.
+
+Görev oluþturma silme ile üyelere görev verilip, görev yapýlma son tarihine göre olumlu yada olumsuz puan verilebiliyor sistemde.
+
+login.cs de yer alan bölümler ile uygulamanýn güncelleme kontrolünde kullanýlacak linkleri
+yerleþtirmeyi unutmayýn.
+
+her türlü soru için
+
+furkancigerlioglu@gmail.com
