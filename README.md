@@ -20,6 +20,9 @@ Görev oluşturma silme ile üyelere görev verilip, görev yapılma son tarihin
 login.cs de yer alan bölümler ile uygulamanın güncelleme kontrolünde kullanılacak linkleri
 yerleştirmeyi unutmayın.
 
+Yönetim sistemine ait android uygulaması için:
+https://github.com/SymCors/Student-Club-Management-System#student-club-management-system
+
 her türlü soru için
 
 furkancigerlioglu@gmail.com
